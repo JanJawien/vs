@@ -1,0 +1,7 @@
+D:\Programy\Git\reps\vs\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\Programy\Git\reps\vs\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Programy\Git\reps\vs\lab1\bin\Debug\lab1.exe.config
+D:\Programy\Git\reps\vs\lab1\bin\Debug\lab1.exe
+D:\Programy\Git\reps\vs\lab1\bin\Debug\lab1.pdb
+D:\Programy\Git\reps\vs\lab1\obj\Debug\lab1.exe
+D:\Programy\Git\reps\vs\lab1\obj\Debug\lab1.pdb

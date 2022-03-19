@@ -1,0 +1,4 @@
+D:\Programy\Git\reps\vs\lab2\WindowsFormsApplication5\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\Programy\Git\reps\vs\lab2\WindowsFormsApplication5\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\Programy\Git\reps\vs\lab2\WindowsFormsApplication5\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\Programy\Git\reps\vs\lab2\WindowsFormsApplication5\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
